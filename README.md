@@ -13,3 +13,5 @@ Need to deploy the end results using R or Python.
 ### Author
 Aman Srivastava@amansrivastava321
 
+### link to the web application
+https://lappy-price-pred.herokuapp.com/
